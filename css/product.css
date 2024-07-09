@@ -1,0 +1,33 @@
+.carousel-control-prev-icon {
+    background-image: url("https://muradaghazade.github.io/phones/img/detail-left.svg") !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("https://muradaghazade.github.io/phones/img/detail-right.svg");
+}
+
+.product {
+    margin-top: 50px;
+}
+
+.rating-span {
+    font-size: 12px;
+    border-right: 2px solid #f2f2f2;
+    padding-right: 5px;
+}
+
+
+.price {
+    border-bottom: 2px solid #f2f2f2;
+}
+
+.colors {
+    display: flex;
+    padding-top: 20px;
+}
+
+.all-colors {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+}

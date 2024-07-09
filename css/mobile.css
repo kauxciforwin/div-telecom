@@ -1,0 +1,26 @@
+@media (min-width: 360px) and (max-width: 760px) {
+    .imgreklam {
+        width: 360px;
+    }
+
+    .col-md-3 {
+        display: flex;
+        justify-content: center !important;
+        margin-bottom: 50px;
+    }
+
+    .phone {
+        width: 350px;
+        margin-top: 0px !important;
+    }
+
+    .phones {
+        margin-bottom: 20px;
+    }
+
+    .iphone {
+        width: 150px;
+        margin-right: 10px !important;
+    }
+}
+
